@@ -1,4 +1,4 @@
-<h1>钓鱼项目和骗子集合地。</h2>
+<h1>钓鱼项目和骗子,论坛集合地。</h2>
 <h2>钓鱼项目</h2>
 <ul>
   <li>https://github.com/bluefuckred/landrayOARce    伪装蓝凌OA利用脚本</li>
